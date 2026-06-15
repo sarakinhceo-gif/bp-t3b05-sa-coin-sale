@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sarakinhceo-gif.github.io/bp-t3b05-sa-coin-sale/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://sarakinhceo-gif.github.io/bp-t3b05-sa-coin-sale/about.html</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://sarakinhceo-gif.github.io/bp-t3b05-sa-coin-sale/blog.html</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://sarakinhceo-gif.github.io/bp-t3b05-sa-coin-sale/posts/checklist-001-cbt1e8.html</loc>
     <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sarakinhceo-gif.github.io/bp-t3b05-sa-coin-sale/posts/compare-002-slfpy6.html</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -61,6 +67,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sarakinhceo-gif.github.io/bp-t3b05-sa-coin-sale/posts/qa-001-slfpy6.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sarakinhceo-gif.github.io/bp-t3b05-sa-coin-sale/posts/review-001.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -74,7 +86,7 @@
   </url>
   <url>
     <loc>https://sarakinhceo-gif.github.io/bp-t3b05-sa-coin-sale/feed.xml</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
